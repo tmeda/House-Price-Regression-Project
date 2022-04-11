@@ -1,0 +1,14 @@
+1) Problem Overview
+Real estate is an exellent investment opportunity because of how versatile it is. From renting, to house flipping, to holding long term, real estate offers different strategies people can use to grow their money. No matter what strategy you use, the price that you purchase the house for determines how well your investment will perform. Over paying for an investment property can have detrimental effects that you may not be able to recover from. So how do we know when we are overpaying for an investment property? That is the goal of this project. We want to use characteristics of a house to determine its value so that we have an idea of what we should be paying for it.
+
+2) The Data
+The data was sourced from Kaggle, a platform designed help data scientists perfect their craft and compete for prizes. In the data, there are  1460 entries. Each entry represents a house in Ames, Iowa and contains 80 different variables. These variables measure several different aspects of the house such as square footage, the age of the house and the materials used for the foundation. 
+
+3) Solution Process 
+The main goal of this project is to develop a model that can be used to predict that value of a home. This goal influenced many of the decisions made in this project. For example, in the data set there is a variable that measures the overall quality of the home. This variale would have made a great predictor for home price but I dropped it because there was no strict criteria given for the ranking system used making it meaningless. I dropped all the other ranking variables to keep everything objective. There was a lot of missing data that needed to be dealt with. For columns with a lot with a lot of missing data, I simply dropped them. for columns with a small portion of missing values, I imputed either the median or the mode depending on the variable. 
+
+4) Model Comparison
+5) Key Kindings
+6) Recommendations
+include new ranking variables with criteria
+only record the useful variables
