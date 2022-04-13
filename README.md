@@ -1,4 +1,4 @@
-<h1>The Blockchain Guru Project</h1>
+<h1>The House Price Regression Project</h1>
     <h3>Introduction</h3>
         <p>Real estate is an exellent investment opportunity because of how versatile it is. From renting, to house flipping, to holding long term, real estate offers different strategies people can use to grow their money. No matter what strategy you use, the price that you purchase the house for determines how well your investment will perform. Over paying for an investment property can have detrimental effects that you may not be able to recover from. So how do we know when we are overpaying for an investment property? That is the goal of this project. <b>We want to use characteristics of a house to determine its value so that we have an idea of what we should be paying for it.</b></p>
     <h3>Repo Structure</h3>
